@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "nodejs server system",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-Cybermed/UbuntuServer.git"
+  },
+  "author": "Alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex-Cybermed/UbuntuServer/issues"
+  },
+  "homepage": "https://github.com/Alex-Cybermed/UbuntuServer#readme"
+}
